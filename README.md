@@ -1,5 +1,4 @@
 
-
 # 📊 Amazon Sales Analysis Dashboard – Power BI Project
 
 This is an end-to-end **Amazon Sales Analytics Dashboard** project built using **PostgreSQL** for data cleaning and transformation, and **Power BI** for visualization. The dashboard provides interactive insights into Amazon sales performance, pricing patterns, customer ratings, and discount analysis across various product categories.
@@ -55,6 +54,27 @@ The goal of this project is to transform raw Amazon sales data into an interacti
 
 ---
 
+## 🛠 Business Problems It Can Solve
+
+* Identify **top-performing products** instantly for better decision-making
+* Optimize **discount strategies** based on performance data
+* Improve **inventory management** with ABC-XYZ analysis
+* Align **pricing with customer perception** through Price vs Rating insights
+* Reduce **decision delays** by consolidating all metrics in one place
+
+---
+
+## 🚀 Potential & Impact
+
+* Scale to multiple marketplaces (Flipkart, Shopify, etc.)
+* Enable **dynamic pricing** with real-time data
+* Support targeted **marketing campaigns** based on product performance
+* Reduce holding costs via **inventory optimization**
+* Adapt for **global expansion** with regional variations
+* Empower executives and category managers to make **data-driven decisions**
+
+---
+
 ## 💡 Learnings & Outcomes
 
 This project helped me strengthen skills in:
@@ -75,15 +95,14 @@ This project helped me strengthen skills in:
 * Dashboard design best practices
 
 ---
+
 ## 📧 Contact
 
-**Arnab Mondal**  
-📧 arnabmondal2509@gmail.com  
+**Arnab Mondal**
+📧 [arnabmondal2509@gmail.com](mailto:arnabmondal2509@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/arnabmondal2509) | [Portfolio](https://arnab2509.github.io/)
 
-**#PowerBI #PostgreSQL #DataAnalytics #BusinessIntelligence #AmazonSales #DashboardDesign #RetailInsights #PortfolioProject #OpenToWork**
+**#PowerBI #PostgreSQL #DataAnalytics #BusinessIntelligence #AmazonSales #DashboardDesign #RetailInsights #PortfolioProject #OpenToWork #ABCAnalysis #XYZAnalysis #GitHubProjects**
 
-
-﻿# amazon_sales
-
+---
 
