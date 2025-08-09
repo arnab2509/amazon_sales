@@ -75,9 +75,15 @@ This project helped me strengthen skills in:
 * Dashboard design best practices
 
 ---
+## 📧 Contact
+
+**Arnab Mondal**  
+📧 arnabmondal2509@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/arnabmondal2509) | [Portfolio](https://arnab2509.github.io/)
 
 **#PowerBI #PostgreSQL #DataAnalytics #BusinessIntelligence #AmazonSales #DashboardDesign #RetailInsights #PortfolioProject #OpenToWork**
 
 
 ﻿# amazon_sales
+
 
